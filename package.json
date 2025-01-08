@@ -1,0 +1,17 @@
+{
+  "name": "nf",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
